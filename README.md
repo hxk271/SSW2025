@@ -17,7 +17,7 @@
 
 -  [**A섹션: SPSS와 Jamovi 입문**](https://github.com/hxk271/2023SSW/blob/main/2023________________S1.pdf)
 
--  [**B섹션: $t$ 검정에서 일원분산분석까지**](https://github.com/hxk271/2023SSW/blob/main/2023________________S2.pdf)
+-  [**B섹션: 기술통계에서 일원분산분석까지**](https://github.com/hxk271/2023SSW/blob/main/2023________________S2.pdf)
 
 -  [자료 #1](https://github.com/hxk271/2023SSW/blob/main/dataD1.zip)
 
