@@ -19,7 +19,7 @@
 
 -  [**B섹션: 기술통계에서 일원분산분석까지**](https://github.com/hxk271/2023SSW/blob/main/2023년_여름_통계워크샵_기초통계실습_S1B.pdf)
 
--  [자료 #1](https://github.com/hxk271/2023SSW/blob/main/data_S1.zip)
+-  [자료 #1](https://github.com/hxk271/2023SSW/blob/main/Data_S1.zip)
 
 
 <br/>
