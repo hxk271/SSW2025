@@ -13,7 +13,7 @@
 
 <br/>
 
-## 제2일차(기초통계연습)
+## 제1일차(기초통계연습)
 
 -  [**A섹션: SPSS와 Jamovi 입문**](https://github.com/hxk271/2023SSW/blob/main/2023년_여름_통계워크샵_기초통계실습_S1A.pdf)
 
