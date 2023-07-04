@@ -26,8 +26,8 @@
 
 ## 제2일차(회귀분석)
 
--  [**A섹션: 단순최소자승 회귀분석의 원리**](https://github.com/hxk271/2023SSW/blob/main/2023________________S1.pdf)
+-  [**A섹션: 보통최소자승 회귀분석**](https://github.com/hxk271/2023SSW/blob/main/2023년_여름_통계워크샵_회귀분석_S2A.pdf)
 
--  [**B섹션: 단순최소자승 회귀분석의 활용**](https://github.com/hxk271/2023SSW/blob/main/2023________________S2.pdf)
+-  [**B섹션: 회귀분석의 활용**](https://github.com/hxk271/2023SSW/blob/main/2023년_여름_통계워크샵_회귀분석_S2B.pdf)
 
--  [자료 #2](https://github.com/hxk271/2023SSW/blob/main/dataD2.zip)
+-  [자료 #2](https://github.com/hxk271/2023SSW/blob/main/Data_S2.zip)
