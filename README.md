@@ -13,18 +13,18 @@
 
 <br/>
 
-## 안내사항
+## 충북대학교 여름통계 워크샵 안내사항.pdf
 
--  [**안내사항**](https://github.com/hxk271/SSW2025/blob/main/안내사항.pdf)
+-  [**안내사항**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_안내사항.pdf.pdf)
 
 
 <br/>
 
 ## 제1일차(회귀분석 기초)
 
--  [**A섹션: 선형회귀모형 시작하기**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름_통계워크샵_회귀분석_S1A.pdf)
+-  [**A섹션: 선형회귀모형 시작하기**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S1A.pdf)
 
--  [**B섹션: 다중회귀분석**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름_통계워크샵_회귀분석_S1B.pdf)
+-  [**B섹션: 다중회귀분석**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S1B.pdf)
 
 -  [자료 #1](https://github.com/hxk271/SSW2025/blob/main/Data_S1.zip)
 
@@ -33,8 +33,8 @@
 
 ## 제2일차(회귀분석 응용)
 
--  [**A섹션: 회귀분석의 도구**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름_통계워크샵_회귀분석_S2A.pdf)
+-  [**A섹션: 회귀분석의 도구**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S2A.pdf)
 
--  [**B섹션: 회귀분석의 가정 위배**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름_통계워크샵_회귀분석_S2B.pdf)
+-  [**B섹션: 회귀분석의 가정 위배**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S2B.pdf)
 
 -  [자료 #2](https://github.com/hxk271/SSW2025/blob/main/Data_S2.zip)
