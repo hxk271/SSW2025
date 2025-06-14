@@ -13,9 +13,9 @@
 
 <br/>
 
-## 충북대학교 여름통계 워크샵 안내사항.pdf
+## 충북대학교 여름통계 워크샵 안내사항
 
--  [**안내사항**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_안내사항.pdf.pdf)
+-  [**안내사항**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_안내사항.pdf)
 
 
 <br/>
