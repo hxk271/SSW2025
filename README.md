@@ -13,6 +13,13 @@
 
 <br/>
 
+## 안내사항
+
+-  [**안내사항**](https://github.com/hxk271/SSW2025/blob/main/안내사항.pdf)
+
+
+<br/>
+
 ## 제1일차(회귀분석 기초)
 
 -  [**A섹션: 선형회귀모형 시작하기**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름_통계워크샵_회귀분석_S1A.pdf)
